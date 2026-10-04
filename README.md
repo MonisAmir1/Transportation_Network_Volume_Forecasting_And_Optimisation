@@ -62,7 +62,7 @@ While average metrics appeared healthy, several important risks were uncovered:
 - Forecast error increased significantly during summer months (MAPE above 10%), while peak periods delivered better accuracy (MAPE 6.32%).
 - Volume was heavily concentrated in Germany and in Fulfilment Centres (nearly half of all volume).
 
-A 90-day Prophet forecast was produced to support proactive capacity planning. The findings led to three focused recommendations: prioritise high-spike lanes, improve seasonal forecast calibration, and concentrate capacity attention on the highest-volume nodes and countries.
+A Prophet forecast was produced to support proactive capacity planning. The findings led to three focused recommendations: prioritise high-spike lanes, improve seasonal forecast calibration, and concentrate capacity attention on the highest-volume nodes and countries.
 
 ## Data
 
