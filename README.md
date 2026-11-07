@@ -1,7 +1,7 @@
 # Transportation Network Volume Forecasting & Optimisation
 > Analysed daily transportation volumes and capacity across a European e-commerce network, built a forecasting model, and developed data-driven recommendations to improve network planning and reduce operational risk.
 
-## **View the Full Project →**
+## **View the Full Project → https://monisamir1.github.io/projects/transportation-network-volume-forecasting-optimisation**
 
 ## About the Project
 
@@ -72,4 +72,4 @@ This project uses a **real-world style synthetic dataset** created specifically 
 
 The complete case study contains the detailed business context, analytical approach, key insights, strategic recommendations, expected business impact, technical implementation, dashboard, and lessons learned.
 
-## **View the Full Project →**
+## **View the Full Project → https://monisamir1.github.io/projects/transportation-network-volume-forecasting-optimisation**
